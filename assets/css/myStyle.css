@@ -1,0 +1,333 @@
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
+
+*, *:hover, *:focus{
+    outline: none !important;
+}
+
+.topBar2 {
+    list-style: none;
+}
+
+.topBar2 li {
+    display: inline-block;
+}
+
+.topBar2 li img {
+    width: 32px;
+}
+
+.logo img {
+    width: 175px;
+}
+
+.topMainBar {
+    padding: 15px 0 0;
+}
+
+.menu,
+.navbar-default {
+    background: #e77817 !important;
+}
+
+.menu {
+    margin-top: 10px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff !important;
+    font-size: 16px !important;
+    text-transform: none !important;
+}
+
+
+/*.navbar .navbar-nav {*/
+
+
+/*display: inline-block !important;*/
+
+
+/*float: none !important;*/
+
+
+/*vertical-align: top !important;*/
+
+
+/*}*/
+
+.navbar .navbar-collapse {
+    /*text-align: center !important;*/
+}
+
+.navbar {
+    margin-bottom: 0 !important;
+}
+
+.navbar-right {
+    padding-top: 0 !important;
+}
+
+.proTabs > li {
+    float: none !important;
+    display: inline-block !important;
+    zoom: 1;
+}
+
+.proTabs {
+    text-align: center !important;
+}
+
+.padT10 {
+    padding-top: 10px;
+}
+
+.padT30 {
+    padding-top: 30px;
+}
+
+.padB30 {
+    padding-bottom: 30px;
+}
+
+.padB0{
+    padding-bottom:0 !important;
+}
+
+.marB0{
+    margin-bottom: 0 !important;
+}
+
+.proBor {
+    border: 1px solid #ccc;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btnMy1 {
+    background: #1c3682;
+    background-image: -webkit-linear-gradient(top, #1c3682, #21429c);
+    background-image: -moz-linear-gradient(top, #1c3682, #21429c);
+    background-image: -ms-linear-gradient(top, #1c3682, #21429c);
+    background-image: -o-linear-gradient(top, #1c3682, #21429c);
+    background-image: linear-gradient(to bottom, #1c3682, #21429c);
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 5px 40px;
+    text-decoration: none;
+}
+
+.btnMy1:hover {
+    background: #21429c;
+    background-image: -webkit-linear-gradient(top, #21429c, #1c3682);
+    background-image: -moz-linear-gradient(top, #21429c, #1c3682);
+    background-image: -ms-linear-gradient(top, #21429c, #1c3682);
+    background-image: -o-linear-gradient(top, #21429c, #1c3682);
+    background-image: linear-gradient(to bottom, #21429c, #1c3682);
+    text-decoration: none;
+}
+
+.initialProducts div {
+    /*padding-right: 10px;*/
+    /*padding-left: 10px;*/
+}
+
+.menu .navbar-nav li:hover{
+    background: #fff !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.menu .navbar-nav li:hover a{
+    color: #E77817 !important;
+}
+
+.menu .navbar-nav{
+    margin-top: 5px;
+}
+
+
+.menu2{
+    background: #1C3682 !important;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.menu2 ul {
+  display: inline-block !important;
+  float: none !important;
+  vertical-align: top !important;
+  text-align: center !important;
+  margin-bottom: 0 !important;
+}
+
+
+
+.menu2 ul > li{
+    float: none !important;
+    display: inline-block !important;
+
+}
+
+.menu2 ul  li a{
+    color: #fff;
+    padding: 8px 15px;
+    display: block;
+}
+
+.menu2 ul li:hover{
+    background: #fff;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.menu2 ul li:hover a{
+    color: #1C3682 !important;
+}
+footer{
+    background: #777;
+    color: #fff;
+}
+
+footer a{
+    color: #fff !important;
+}
+
+footer a:hover{
+    color: #ccc !important;
+}
+
+.copyright{
+    background: #606060;
+    padding: 8px;
+}
+
+.fbPlugin{
+    margin-top: 20px;
+}
+
+.indexProducts{
+    list-style: none;
+    text-align: center;
+}
+
+.indexProducts li{
+    display: inline;
+    /*border: 1px solid #ccc;*/
+}
+
+.proPad{
+    padding: 0 5px !important;
+}
+
+.bgccc{
+    background: #ccc !important;
+}
+
+.marT20{
+    margin-top: 30px;
+}
+
+.productSliders, .indexProducts {
+    text-align: center !important;
+    text-align: -webkit-center !important;
+}
+
+.border{
+    border: 1px solid #ddd;
+    padding: 15px 10px;
+    display: inline-block;
+}
+
+.bgfff{
+    background: #fff;
+}
+
+.proBor{
+    border: 1px solid #ccc;
+}
+
+.form-control{
+    height: 26px !important;
+    font-size: 12px !important;
+}
+
+.contact .form-control{
+    height: auto !important;
+}
+
+.crBtn{
+    font-size: 12px !important;
+    padding: 3px 12px !important;
+}
+
+.pDes{
+    min-height: 40px;
+}
+.pTitle{
+  min-height: 52px;
+}
+
+#count{
+    border: 1px solid #fff;
+    padding: 0 5px;
+    border-radius: 50%;
+}
+.clr1C3682{
+    color: #1C3682 !important;
+}
+
+.topNumber a{
+    color: #1C3682 !important;
+    font-size: 20px;
+}
+
+.fPhone a{
+    color: #fff !important;
+}
+
+.blink {
+    animation: blinker 5s linear infinite;
+}
+
+@keyframes blinker {
+    50% { opacity: 0; }
+}
+
+.clr333{
+    color: #333;
+}
+
+#googleMap{
+    width: 100%;
+    height: 300px;
+}
+
+.menu2 ul{
+    padding-left: 0!important;
+}
+.menu2 ul li{
+    border: 1px solid #fff;
+    margin-bottom: 5px;
+}
+
+#goToTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}

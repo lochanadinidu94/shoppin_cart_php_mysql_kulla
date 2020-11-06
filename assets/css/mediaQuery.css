@@ -1,0 +1,32 @@
+@media (max-width: 800px) {
+    .initialProducts {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .xs-center{
+        text-align: center;
+        width: 100%;
+    }
+    .footer{
+        padding-bottom: 15px;
+    }
+    .topBar2{
+        padding-left: 0 !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .slick-slider{
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .border{
+        border: 0;
+        padding: 0;
+    }
+}
